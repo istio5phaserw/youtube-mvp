@@ -1,6 +1,1 @@
-Draft accessibility review
-Check benchmark scores
-Update backup policy
-Summarize hyperparam runs
-Add privacy considerations
-Update governance notes
+List pending approvals
