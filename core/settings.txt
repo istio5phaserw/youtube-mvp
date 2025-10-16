@@ -1,11 +1,1 @@
-Prepare closure report
-List discount schemes
-Record CI/CD pipeline
-List shipping costs
-Check breaking changes
-Summarize content audit
-Summarize hyperparam runs
-Update threat model
-Create new test cases
-Summarize deployment tests
-Draft weekly digest
+Update retention plan
